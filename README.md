@@ -32,7 +32,7 @@ A modern and responsive Calculator Web Application built with **HTML**, **CSS**,
 ## 📂 Project Structure
 
 ```
-Modern-Calculator/
+Calculator-Web-App/
 │
 ├── index.html
 ├── style.css
@@ -44,7 +44,7 @@ Modern-Calculator/
 
 ---
 
-## 📸 Screenshot
+## UI of this Application
 
 
 ![Calculator Screenshot](images/calculator.png)
