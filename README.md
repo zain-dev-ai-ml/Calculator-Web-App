@@ -29,18 +29,7 @@ A modern and responsive Calculator Web Application built with **HTML**, **CSS**,
 
 ---
 
-## 📂 Project Structure
 
-```
-Calculator-Web-App/
-│
-├── index.html
-├── style.css
-├── script.js
-├── images/
-│   └── icon.ico
-└── README.md
-```
 
 ---
 
